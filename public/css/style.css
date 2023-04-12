@@ -1,0 +1,40 @@
+.text-color{
+    color: #ff4800;
+}
+.bg-color{
+    background-color: #ff4800;
+}
+.bg-color:hover{
+    background-color: #d93d00;
+}
+.my-nav-link{
+    font-weight: bold;
+}
+.my-nav-link:hover {
+    background-color: #ff4800;
+    color: white;
+}
+.banner-section {
+    background-image: url("../img/header.jpg");
+    height: 500px;
+}
+.form-card{
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+}
+.b-color{
+    background-color: #ff4800;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+.text{
+    text-align: center;
+}
+
